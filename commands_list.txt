@@ -1,0 +1,15 @@
+    1  node -v
+    2  node
+    3  node index.js
+    4  node index.js
+    5  node index.js
+    6  npm init -y
+    7  yarn add express cors openai dotenv
+    8  git init
+    9  git add .
+   10  Download all_commands_and_code.txt
+   11  git commit -m "first commit"
+   12  git branch -M main
+   13  git remote add origin https://github.com/Franciskkang/chat-chef-backend.git
+   14  git push -u origin main
+   15  history > commands_list.txt
